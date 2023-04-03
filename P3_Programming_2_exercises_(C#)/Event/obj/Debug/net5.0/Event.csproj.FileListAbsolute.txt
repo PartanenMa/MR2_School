@@ -1,0 +1,5 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Event\obj\Debug\net5.0\Event.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache

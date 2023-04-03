@@ -1,0 +1,42 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ */
+
+package com.mycompany.tehtava_7_15;
+
+/**
+ *
+ * @author manu1
+ */
+
+public class Tehtava_7_15 {
+    
+    static void combinationUtil(int arr[], int n, int r, int index, int data[], int i) {
+        if (index == r) {
+            for (int j = 0; j < r; j++) {
+                System.out.print(data[j] + " ");
+            }
+            System.out.println("");
+            return;
+        }
+        if (i >= n) {
+            return;
+        }
+        data[index] = arr[i];
+        combinationUtil(arr, n, r, index + 1, data, i + 1);
+        combinationUtil(arr, n, r, index, data, i + 1);
+    }
+    
+    static void printCombination(int arr[], int n, int r) {
+        int data[] = new int[r];
+        combinationUtil(arr, n, r, 0, data, 0);
+    }
+
+    public static void main(String[] args) {
+        int arr[] = { 10, 20, 30, 40, 50 };
+        int r = 3;
+        int n = arr.length;
+        printCombination(arr, n, r);
+    }
+}

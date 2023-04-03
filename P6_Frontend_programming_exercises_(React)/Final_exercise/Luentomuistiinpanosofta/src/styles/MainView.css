@@ -1,0 +1,180 @@
+.mainContainer{
+    position: center;
+    top: 150px;
+    width: 800px;
+    display: block;
+    
+}
+.createButton button{
+    position:relative;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    padding: 10px 60px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.listButton button{
+    position:relative;
+    left: 500px;
+    bottom: 101px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    padding: 10px 60px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.addButton button{
+    position:relative;
+    bottom: 80px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    padding: 10px 60px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+/*AddNotesView:*/
+.container{
+    position: center;
+    top: 450px;
+    display: block;
+}
+
+.otsikko{
+    position: relative;
+    color:white;
+    font-size: 30px;
+}
+
+label{
+    color: white;
+    font-size: 30px;
+}
+
+textarea{
+    position: relative;
+    width: 600px;
+    height: 300px;
+}
+
+#tallenna{
+    position:relative;
+    color: black;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#takaisin{
+    position:relative;
+    color: black;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    cursor: pointer;
+}
+
+/*ListNotesView:*/
+label{
+    color: white;
+    font-size: 30px;
+}
+
+select{
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+#poistaNote{
+    position:relative;
+    background-color: red;
+    cursor: pointer;
+}
+
+#poistaKurssi{
+    position:relative;
+    background-color: red;
+    cursor: pointer;
+}
+
+#ListNotesViewtakaisin{
+    position:relative;
+    color: black;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.muistiinpanot{
+    position: relative;
+    border: 2px solid black;
+    background-color: white;
+}
+
+p{
+    position: relative;
+    bottom: 20px;
+    color: black;
+    font-size: 25px;
+}
+
+#nappi{
+    position: relative;
+    bottom: 20px;
+    padding-left: 0px;
+    font-size: 20px;
+}
+
+/*AddCoursesView:*/
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+#lisaaKurssi{
+    position: relative;
+    width: 500px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#lisaa{
+    position:relative;
+    color: black;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#palaa{
+    position:relative;
+    color: black;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    cursor: pointer;
+}

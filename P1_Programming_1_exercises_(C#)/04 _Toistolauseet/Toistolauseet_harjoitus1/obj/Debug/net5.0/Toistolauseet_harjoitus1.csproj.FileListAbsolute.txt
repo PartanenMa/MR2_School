@@ -1,0 +1,16 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.exe
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.deps.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.runtimeconfig.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.runtimeconfig.dev.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\ref\Toistolauseet_harjoitus1.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\bin\Debug\net5.0\Toistolauseet_harjoitus1.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\ref\Toistolauseet_harjoitus1.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi_1 (C#)\Ohjelmat\Toistolauseet\Toistolauseet_harjoitus1\obj\Debug\net5.0\Toistolauseet_harjoitus1.genruntimeconfig.cache

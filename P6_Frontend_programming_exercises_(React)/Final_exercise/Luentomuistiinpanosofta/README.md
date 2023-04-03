@@ -1,0 +1,3 @@
+Luentomuistiinpanosofta:
+
+Ohjelma koostuu Header ja MainView komponenteista, sekä MainView:n sisällä olevista monista pienemmistä komponenteista. Käytännössä MainView-komponentti hallitsee koko ohjelmaa sen sisällä olevien komponenttien avulla. En saanut useStatea toimimaan haluamallani tavalla kun jaoin ohjelman useampaan komponenttiin, joten päädyin pistämään kaiken MainView:n sisään. Tein uudessa versiossa muistiinpanojen listaukseen muutoksia.

@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Control panel</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: black;
+            overflow-x: hidden;
+            overflow-y: hidden;
+        }
+
+        /*Ohjelmakontti:*/
+        .container {
+            width: 1080px;
+            height: 600px;
+            margin: auto;
+            background-color: maroon;
+        }
+
+        /*Otsikko:*/
+        #otsikko {
+            position: relative;
+            left: 400px;
+        }
+
+        /*Ylempi laatikko:*/
+        #section_1 {
+            width: 1000px;
+            height: 230px;
+            position: relative;
+            left: 40px;
+            top: -10px;
+            background-color: gray;
+        }
+
+        /*Lämpötilatekstikenttä:*/
+        #text_field_L {
+            background-color: white;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 65px;
+            top: -270px;
+        }
+
+        /*Kosteustekstikenttä:*/
+        #text_field_K {
+            background-color: white;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 140px;
+            top: -270px;
+        }
+
+        /*Lämpötilateksti:*/
+        #lämpöteksti {
+            font-size: 25px;
+            position: relative;
+            left: 65px;
+            top: 23px;
+        }
+
+        /*Kosteusteksti:*/
+        #kosteusteksti {
+            font-size: 25px;
+            position: relative;
+            left: 352px;
+            top: -30px;
+        }
+
+        /*Lämpötila ohje:*/
+        #lämpö_ohje {
+            font-size: 20px;
+            position: relative;
+            left: 100px;
+            top: 20px;
+        }
+
+        /*Kosteus ohje:*/
+        #kosteus_ohje {
+            font-size: 20px;
+            position: relative;
+            left: 390px;
+            top: -90px;
+        }
+
+        /*Alempi laatikko:*/
+        #section_2 {
+            width: 1000px;
+            height: 230px;
+            position: relative;
+            left: 40px;
+            top: 10px;
+            background-color: gray;
+        }
+
+        /*Komentoteksti:*/
+        #komentoteksti {
+            font-size: 25px;
+            position: relative;
+            left: 355px;
+            top: 50px;
+        }
+
+        /*Komentotekstikenttä:*/
+        #text_field_1 {
+            background-color: white;
+            width: 300px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 150px;
+            top: 35px;
+        }
+
+        /*Eka nappi:*/
+        #nappi_1 {
+            background-color: darkolivegreen;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: -450px;
+            top: -30px;
+        }
+
+        /*Toka nappi:*/
+        #nappi_2 {
+            background-color: darkolivegreen;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: -654px;
+            top: 35px;
+        }
+
+        /*Komentonappi:*/
+        #komentonappi {
+            background-color: darkolivegreen;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 66px;
+            top: 100px;
+        }
+
+        /*Lämpötilan muutoskenttä:*/
+        #text_field_muuta_L {
+            background-color: white;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 730px;
+            top: -86px;
+        }
+
+        /*Kosteuden muutoskenttä:*/
+        #text_field_muuta_K {
+            background-color: white;
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 517px;
+            top: -21px;
+        }
+
+        /*Muunnosnappi:*/
+        #muuta_nappi {
+            background-color: darkolivegreen;
+            width: 208px;
+            height: 50px;
+            font-size: 30px;
+            position: relative;
+            left: 305px;
+            top: 44px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="otsikko">
+            <h1>IoT control panel</h1>
+        </div>
+        <div id="section_1">
+            <p id="lämpöteksti">Nykyinen lämpötila:</p>
+            <p id="kosteusteksti">Nykyinen kosteus:</p>
+            <p id="lämpö_ohje">
+                Värit(lämpötila):<br />
+                vihreä = lämmin<br />
+                sininen = kylmä<br />
+                punainen = kuuma
+            </p>
+            <p id="kosteus_ohje">
+                Värit(kosteus):<br />
+                vihreä = kuiva<br />
+                sininen = kostea<br />
+                punainen = märkä
+            </p>
+            <input type="text" id="text_field_L" name="TEKSTIKENTTÄ1" />
+            <input type="text" id="text_field_K" name="TEKSTIKENTTÄ1" />
+        </div>
+        <div id="section_2">
+            <p id="komentoteksti">Syötä komento:</p>
+            <button id="komentonappi" onclick="komento()">KOMENTO</button>
+            <input type="text" id="text_field_1" onkeypress="onko_enter(event)" name="TEKSTIKENTTÄ1" />
+            <button id="nappi_1" onclick="aloita()">ALOITA</button>
+            <button id="nappi_2" onclick="lopeta()">LOPETA</button>
+            <input type="text" id="text_field_muuta_L" name="TEKSTIKENTTÄ2" />
+            <input type="text" id="text_field_muuta_K" name="TEKSTIKENTTÄ3" />
+            <button id="muuta_nappi" onclick="muuta()">MUUTA</button>
+        </div>
+    </div>
+    <script>
+        //Aloittaa arvojen jatkuvan hakemisen:
+        var kek;
+        function aloita_paivitys() {
+            getvalues();
+            kek = setInterval(getvalues, 5000);
+        }
+
+        //Lopettaa arvojen jatkuvan hakemisen:
+        function lopeta_paivitys() {
+            clearInterval(kek);
+        }
+        //Hakee lämpötilan ja kosteuden:
+        function getvalues() {
+            fetch("/data", {
+                method: "post",
+            })
+                .then((res) => res.json())
+                .then((json) => setvalues(json));
+        }
+
+        //Lähettää halutun lämpötilan ja kosteuden palvelimelle:
+        function postvalues() {
+            const url = "/api/set_targets";
+            var jsondata = {};
+            if (document.getElementById("text_field_muuta_L").value == "") {
+                jsondata.wants_temperature = "-99";
+            } else {
+                jsondata.wants_temperature =
+                    document.getElementById("text_field_muuta_L").value;
+            }
+            if (document.getElementById("text_field_muuta_K").value == "") {
+                jsondata.wants_humidity = "-99";
+            } else {
+                jsondata.wants_humidity =
+                    document.getElementById("text_field_muuta_K").value;
+            }
+            (async () => {
+                const rawResponse = await fetch(url, {
+                    method: "POST",
+                    headers: {
+                        Accept: "application/json",
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify(jsondata),
+                });
+                //const content = await rawResponse.json();
+
+                //console.log(content);
+            })();
+
+        }
+
+        //Asettaa lämpötilan ja kosteuden:
+        function setvalues(json) {
+            //console.log("setvalues: ", json);
+            let lampotila = JSON.parse(json.arvot).temperature.toFixed(2);
+            document.getElementById("text_field_L").value = lampotila + " °C";
+            if (lampotila < 25 && lampotila > 21) {
+                text_field_L_style("warm");
+            } else if (lampotila < 22) {
+                text_field_L_style("cold");
+            } else if (lampotila > 24) {
+                text_field_L_style("hot");
+            }
+            let kosteus = JSON.parse(json.arvot).humidity.toFixed(2);
+            document.getElementById("text_field_K").value = kosteus + " %";
+            if (kosteus < 32 && kosteus > -1) {
+                text_field_K_style("dry");
+            } else if (kosteus < 70 && kosteus >= 32) {
+                text_field_K_style("humid");
+            } else if (kosteus > 69 && kosteus < 101) {
+                text_field_K_style("wet");
+            }
+        }
+
+        //Muuta lämpötekstikentän style:
+        function text_field_L_style(command) {
+            if (command == "warm") {
+                let element = document.getElementById("text_field_L");
+                element.style.backgroundColor = "green";
+            } else if (command == "hot") {
+                let element = document.getElementById("text_field_L");
+                element.style.backgroundColor = "red";
+            } else if (command == "cold") {
+                let element = document.getElementById("text_field_L");
+                element.style.backgroundColor = "cyan";
+            }
+        }
+
+        //Muuta kosteustekstikentän style:
+        function text_field_K_style(command) {
+            if (command == "dry") {
+                let element = document.getElementById("text_field_K");
+                element.style.backgroundColor = "green";
+            } else if (command == "wet") {
+                let element = document.getElementById("text_field_K");
+                element.style.backgroundColor = "red";
+            } else if (command == "humid") {
+                let element = document.getElementById("text_field_K");
+                element.style.backgroundColor = "cyan";
+            }
+        }
+
+        //Ajaa pääohjelmafunktion komennolla "aloita"(aloittaa ohjelman):
+        function aloita() {
+            let komento = "aloita";
+            ohjelma(komento);
+        }
+        //Ajaa pääohjelmafunktion komennolla "lopeta"(lopettaa ohjelman):
+        function lopeta() {
+            let komento = "lopeta";
+            ohjelma(komento);
+        }
+
+        //Komento ENTER-näppäimen avulla:
+        function onko_enter(event) {
+            if (event.keyCode == 13) {
+                komento();
+            }
+        }
+
+        //Ajaa pääohjelmafunktion komentokentän komennolla:
+        function komento() {
+            let komento = document.getElementById("text_field_1").value;
+            ohjelma(komento);
+        }
+
+        //Ajaa pääohjelmafunktion komennolla "muuta":
+        function muuta() {
+            let komento = "muuta";
+            ohjelma(komento);
+        }
+
+        //Pääohjelma:
+        function ohjelma(k) {
+            let komento = k;
+            let paalla = false;
+            let tekstikentta = document.getElementById("text_field_1");
+            if (tekstikentta.style.backgroundColor == "darkolivegreen") {
+                paalla = true;
+            }
+            if (komento == "aloita" && paalla == false) {
+                aloita_paivitys();
+                paalla = true;
+                let text_field_L = document.getElementById("text_field_L");
+                text_field_L.style.backgroundColor = "black";
+                document.getElementById("text_field_L").value = "";
+                let text_field_K = document.getElementById("text_field_K");
+                text_field_K.style.backgroundColor = "black";
+                document.getElementById("text_field_K").value = "";
+                let text_field_komento = document.getElementById("text_field_1");
+                text_field_komento.style.backgroundColor = "darkolivegreen";
+                document.getElementById("text_field_1").value = "";
+                let text_field_ML = document.getElementById("text_field_muuta_L");
+                text_field_ML.style.backgroundColor = "darkred";
+                document.getElementById("text_field_muuta_L").value = "";
+                let text_field_MK = document.getElementById("text_field_muuta_K");
+                text_field_MK.style.backgroundColor = "darkblue";
+                document.getElementById("text_field_muuta_K").value = "";
+                getvalues();
+            } else if (komento == "lopeta" && paalla == true) {
+                lopeta_paivitys();
+                paalla = false;
+                let text_field_L = document.getElementById("text_field_L");
+                text_field_L.style.backgroundColor = "white";
+                document.getElementById("text_field_L").value = "";
+                let text_field_K = document.getElementById("text_field_K");
+                text_field_K.style.backgroundColor = "white";
+                document.getElementById("text_field_K").value = "";
+                let text_field_komento = document.getElementById("text_field_1");
+                text_field_komento.style.backgroundColor = "white";
+                document.getElementById("text_field_1").value = "";
+                let text_field_ML = document.getElementById("text_field_muuta_L");
+                text_field_ML.style.backgroundColor = "white";
+                document.getElementById("text_field_muuta_L").value = "";
+                let text_field_MK = document.getElementById("text_field_muuta_K");
+                text_field_MK.style.backgroundColor = "white";
+                document.getElementById("text_field_muuta_K").value = "";
+            } else if (komento != "aloita" && paalla == false) {
+                document.getElementById("text_field_1").value =
+                    "Aloita ohjelma ensin!";
+            } else if (komento == "aloita" && paalla == true) {
+                document.getElementById("text_field_1").value =
+                    "Ohjelma on jo päällä!";
+            } else if (komento == "näytä" && paalla == true) {
+                getvalues();
+            } else if (komento == "muuta" && paalla == true) {
+                postvalues();
+            } else {
+                document.getElementById("text_field_1").value = "Tuntematon komento!";
+            }
+        }
+    </script>
+</body>
+</html>

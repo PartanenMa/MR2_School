@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="script.js"></script>
+    <title>Loppuharjoitus</title>
+</head>
+<body>
+    <!--Ohjelmakontti:-->
+    <div class = "container">
+        <!--Ensimmäinen rivi:-->
+        <div class = "rivi_1">
+            <!--Ylin osa:-->
+            <section class = "section_1">
+                <input type = "text" id = "text_field" onkeypress = "onko_enter(event)" name = "TEKSTIKENTTÄ">
+                <button id = "print" onclick= "tulosta()">TULOSTA</button>
+            </section>
+        </div>
+        <!--Toinen rivi:-->
+        <div class = "rivi_2">
+            <!--Vasen kolumni:-->
+            <section class = "section_2">
+                <div id= "vasen_teksti">Vasen teksti</div>
+                <div class = "section_2_container">
+                    <div id= "komento_1" onclick= "komento_tekstikenttaan('komento_1')">google</div>
+                    <div id= "komento_2" onclick= "komento_tekstikenttaan('komento_2')">listaa</div>
+                    <div id= "komento_3" onclick= "komento_tekstikenttaan('komento_3')">manu</div>
+                    <div id= "komento_4" onclick= "komento_tekstikenttaan('komento_4')">luku välillä 1-999</div>
+                    <div id= "komento_5" onclick= "komento_tekstikenttaan('komento_5')">piirrä</div>
+                    <div id= "komento_6" onclick= "komento_tekstikenttaan('komento_6')">tee popup</div>
+                    <div id= "komento_7" onclick= "komento_tekstikenttaan('komento_7')">vaihda</div>
+                    <div id= "komento_8" onclick= "komento_tekstikenttaan('komento_8')">funktio</div>
+                </div>
+            </section>
+            <!--Oikea kolumni:-->
+            <section class = "section_3">
+                
+                <div id= "oikea_teksti" onclick= "google()">Oikea teksti</div>
+                <div id= "ilmestynyt" onclick= "sulje_div()">Tässä pyydetty popup</div>
+                <button id="sulje_div" onclick= "sulje_div()">Sulje</button>
+                <canvas id= "canvas" width="300" height="150" style="border:1px solid #d3d3d3;"></canvas>
+                <input type = "text" id = "oikea_tekstikentta" onkeypress = "onko_enter_uusi(event)" name = "OIKEA_TEKSTIKENTTÄ"> <br>
+                <button id = "suorita" onclick= "funktio2()">Suorita</button>
+                <p id = "sanat">Sanat:</p>
+            </section>
+        </div>
+    </div>
+</body>
+</html>

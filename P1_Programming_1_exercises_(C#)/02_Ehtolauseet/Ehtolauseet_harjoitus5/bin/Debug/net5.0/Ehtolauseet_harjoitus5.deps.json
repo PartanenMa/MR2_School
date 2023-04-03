@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ehtolauseet_harjoitus5/1.0.0": {
+        "runtime": {
+          "Ehtolauseet_harjoitus5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ehtolauseet_harjoitus5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

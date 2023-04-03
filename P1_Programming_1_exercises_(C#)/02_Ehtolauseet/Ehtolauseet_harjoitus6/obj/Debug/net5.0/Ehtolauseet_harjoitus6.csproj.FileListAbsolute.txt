@@ -1,0 +1,16 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.exe
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.deps.json
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.runtimeconfig.json
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.runtimeconfig.dev.json
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\ref\Ehtolauseet_harjoitus6.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\bin\Debug\net5.0\Ehtolauseet_harjoitus6.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\ref\Ehtolauseet_harjoitus6.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\Ohjelmointi\Ohjelmointi-1\Ohjelmat\02 Ehtolauseet\Ehtolauseet_harjoitus6\obj\Debug\net5.0\Ehtolauseet_harjoitus6.genruntimeconfig.cache

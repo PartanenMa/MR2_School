@@ -1,0 +1,1 @@
+{"temperature_target":"44","humidity_target":"33"}

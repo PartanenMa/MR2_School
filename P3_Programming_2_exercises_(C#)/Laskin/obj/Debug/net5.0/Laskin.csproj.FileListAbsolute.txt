@@ -1,0 +1,16 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.exe
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.deps.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.runtimeconfig.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.runtimeconfig.dev.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\ref\Laskin.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\bin\Debug\net5.0\Laskin.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\ref\Laskin.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Laskin\obj\Debug\net5.0\Laskin.genruntimeconfig.cache

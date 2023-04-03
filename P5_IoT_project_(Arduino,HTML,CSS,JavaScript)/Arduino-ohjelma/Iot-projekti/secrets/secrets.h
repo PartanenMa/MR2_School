@@ -1,0 +1,3 @@
+#define SECRET_SSID "SAMK-IoT"
+#define SECRET_PASS "IoT#Samk"
+#define SECRET_SERVERNAME "10.222.206.234"

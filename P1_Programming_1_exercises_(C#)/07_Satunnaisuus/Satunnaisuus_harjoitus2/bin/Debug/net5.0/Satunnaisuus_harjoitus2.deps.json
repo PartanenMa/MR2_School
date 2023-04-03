@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Satunnaisuus_harjoitus2/1.0.0": {
+        "runtime": {
+          "Satunnaisuus_harjoitus2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Satunnaisuus_harjoitus2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.exe
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.deps.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.runtimeconfig.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.runtimeconfig.dev.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\ref\Lisaa_kayttaja-ohjelma.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\bin\Debug\net5.0\Lisaa_kayttaja-ohjelma.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.csproj.CoreCompileInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\ref\Lisaa_kayttaja-ohjelma.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Lisaa_kayttaja-ohjelma\obj\Debug\net5.0\Lisaa_kayttaja-ohjelma.genruntimeconfig.cache

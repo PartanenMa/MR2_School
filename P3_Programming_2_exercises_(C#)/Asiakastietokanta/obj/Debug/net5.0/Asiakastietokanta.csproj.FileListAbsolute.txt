@@ -1,0 +1,16 @@
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.exe
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.deps.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.runtimeconfig.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.runtimeconfig.dev.json
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\ref\Asiakastietokanta.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\bin\Debug\net5.0\Asiakastietokanta.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.csproj.AssemblyReference.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.AssemblyInfoInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.AssemblyInfo.cs
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.csproj.CoreCompileInputs.cache
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\ref\Asiakastietokanta.dll
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.pdb
+C:\Users\manu1\Desktop\Projektit\SAMK\01 Ohjelmointi\Ohjelmointi 2 (C#)\Ohjelmat\00 Palautettavat tehtävät\Asiakastietokanta\obj\Debug\net5.0\Asiakastietokanta.genruntimeconfig.cache

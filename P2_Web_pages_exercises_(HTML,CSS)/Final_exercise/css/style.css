@@ -1,0 +1,1157 @@
+body {
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+.header_background {
+    background-image: url("../img/pexels-quang-nguyen-vinh-2175952(mod).jpg");   
+    background-size: cover;
+    height: 500px;
+    max-width: 1060px;
+    margin: auto;
+}
+
+.header_background .nav_selector {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    display: none;
+}
+
+.header_background .nav_selector .stripe_1 {
+    background-color: black;
+    height: 3px;
+    width: 25px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+    border-radius: 2px;
+}
+
+.header_background .nav_selector .stripe_2 {
+    background-color: black;
+    height: 3px;
+    width: 25px;
+    position: relative;
+    top: 15px;
+    left: 0px;
+    border-radius: 2px;
+}
+
+.header_background .nav_selector .stripe_3 {
+    background-color: black;
+    height: 3px;
+    width: 25px;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    border-radius: 2px;
+}
+
+.header_background .i_know_html .red_box {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    left: 455px;
+    top: 210px;
+    border-radius: 2px;
+}
+
+.header_background .i_know_html .red_box h3 {
+    color: #FFF;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 9px;
+    padding-left: 20px;
+}
+
+.header_background .i_know_html .red_box .white_block {
+    background-color: #FFF;
+    width: 8px;
+    height: 2px;
+    position: relative;
+    left: 18px;
+    bottom: 18px;
+}
+
+.header_background .i_know_html .red_box h4 {
+    color: #FFF;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    bottom: 67px;
+}
+
+.header_background .i_know_html .html_text {
+    height: 50px;
+    width: 100px;
+    position: relative;
+    left: 565px;
+    top: 133px;
+}
+
+.header_background .i_know_html .html_text h4 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.header_background .i_know_html .CSS_text {
+    height: 10px;
+    width: 90px;
+    position: relative;
+    left: 530px;
+    top: 128px;
+}
+
+.header_background .i_know_html .CSS_text p {
+    color: black;
+    font-size: 9px;
+    text-align: left;
+}
+
+.nav_background {
+    background-color: black;
+    height: 50px;
+    max-width: 1060px;
+    margin: auto;
+}
+
+.nav_background .button_1 {
+    color:dimgray;
+    height: 50px;
+    width: 212px;
+    border-radius: 2px;
+    float: left;
+}
+
+.nav_background .button_2 {
+    color:dimgray;
+    height: 50px;
+    width: 212px;
+    border-radius: 2px;
+    float: left;
+}
+
+.nav_background .button_3 {
+    color:dimgray;
+    height: 50px;
+    width: 212px;
+    border-radius: 2px;
+    float: left;
+}
+
+.nav_background .button_4 {
+    color:dimgray;
+    height: 50px;
+    width: 212px;
+    border-radius: 2px;
+    float: left;
+}
+
+.nav_background .button_5 {
+    background-color: red;
+    color: #FFF;
+    height: 50px;
+    width: 212px;
+    border-radius: 2px;
+    float: left;
+}
+
+.eka_background {
+    background-color: black;
+    background-image: url("..//img/pexels-quang-nguyen-vinh-2175952.jpg");
+    height: 2200px;
+    max-width: 1060px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.eka_background .eka_container {
+    background-color: black;
+    opacity: 95%;
+    height: 1600px;
+    width: 1060px;
+    position: sticky;
+    top: 0;
+}
+
+.eka_background .eka_container .eka_img {
+    position: relative;
+    left: -350px;
+    top: 150px;
+}
+
+ .eka_background .eka_container .eka_img .logo {
+    opacity: 50%;
+    width: 1000px;
+    padding: -500px;
+    filter: invert(1);
+    opacity: 0.15;
+}
+
+.eka_background .eka_container .text_container {
+    position: relative;
+    left: 20px;
+    bottom: 740px;
+}
+
+.eka_background .eka_container .text_container .design {
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 600px;
+    top: -200px;
+}
+
+.eka_background .eka_container .text_container .design h2 {
+    color:#FFF;
+    text-align: center;
+    font-size: 90px;
+}
+
+.eka_background .eka_container .text_container .thinking {
+    width: 250px;
+    height: 100px;
+    position: relative;
+    left: 640px;
+    top: -300px;
+}
+
+.eka_background .eka_container .text_container .thinking h3 {
+    color:red;
+    text-align: center;
+    font-size: 70px;
+}
+
+.eka_background .eka_container .text_container .eka_text {
+    position: relative;
+    left: 655px;
+    top: -270px;
+}
+
+.eka_background .eka_container .text_container .eka_text #p1 {
+    color:#FFF;
+    font-size: 19px;
+}
+
+.eka_background .eka_container .text_container .eka_text #p2 {
+    color:#FFF;
+    font-size: 13px;
+}
+
+.eka_background .eka_container .text_container .eka_text .stripe_1 {
+    background-color: #FFF;
+    height: 1px;
+    width: 240px;
+    position: relative;
+    bottom: 10px;
+    opacity: 0.15;
+}
+
+.eka_background .eka_container .text_container .eka_text .stripe_2 {
+    background-color: #FFF;
+    height: 1px;
+    width: 240px;
+    position: relative;
+    bottom: 70px;
+    opacity: 0.15;
+}
+
+.eka_background .eka_container .text_container .eka_text .stripe_3 {
+    background-color: #FFF;
+    height: 1px;
+    width: 240px;
+    position: relative;
+    bottom: 108px;
+    opacity: 0.15;
+}
+
+.eka_background .eka_container .text_container .eka_text .stripe_4 {
+    background-color: #FFF;
+    height: 1px;
+    width: 240px;
+    position: relative;
+    bottom: 168px;
+    opacity: 0.15;
+}
+
+.eka_background .eka_container .text_container .eka_text #p3 {
+    color:#FFF;
+    font-size: 19px
+}
+
+.toka_background {
+    background-color: black;
+    height: 600px;
+    width: 1060px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.toka_background h2 {
+    color: #FFF;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.toka_background .blocks .block_1 {
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    position: relative;
+    left: 410px;
+    top: 8px;
+}
+
+.toka_background .blocks .block_2 {
+    background-color: crimson;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    position: relative;
+    left: 550px;
+    top: -103px;
+}
+
+.toka_background .blocks .block_3 {
+    background-color: midnightblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    position: relative;
+    left: 410px;
+    top: -79px;
+}
+
+.toka_background .blocks .block_4 {
+    background-color: indigo;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    position: relative;
+    left: 550px;
+    top: -190px;
+}
+
+.toka_background .blocks .slide {
+    background-color: red;
+    height: 50px;
+    width: 240px;
+    border-radius: 2px;
+    position: relative;
+    left: 411px;
+    top: -165px;
+}
+
+.toka_background .blocks .block_1 p {
+    color:#FFF;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.toka_background .blocks .block_2 p {
+    color:#FFF;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.toka_background .blocks .block_3 p {
+    color:#FFF;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.toka_background .blocks .block_4 p {
+    color:#FFF;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.toka_background .blocks .slide p {
+    color:#FFF;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 12px;
+    padding-left: 15px;
+}
+
+.kolmas_background {
+    position: sticky;
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+    max-width: 1060px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+}
+
+.kolmas_background .youtube_video {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+.neljäs_background {
+    background-image: url("../img/pexels-andreea-ch-3969099.jpg");
+    background-size: cover;
+    height: 1020px;
+}
+
+.neljäs_background h2 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.neljäs_background .neljäs_container {
+    height: 749px;
+    width: 1060px;
+    margin: auto;
+    position: sticky;
+    top: 0;
+}
+
+.neljäs_background .neljäs_container .neljäs_text {
+    padding-top: 120px;
+    padding-left: 250px;
+}
+
+.neljäs_background .neljäs_container .neljäs_text h3 {
+    font-size: 22px;
+}
+
+.neljäs_background .neljäs_container .neljäs_text p {
+    font-size: 12px;
+}
+
+.neljäs_background .neljäs_container .neljäs_text h4 {
+    font-size: 12px;
+}
+
+.viides_background {
+    background-color: black;
+    height: 500px;
+}
+
+.viides_background h2 {
+    color: #FFF;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.viides_background .viides_container {
+    height: 425px;
+    width: 1060px;
+    margin: auto;
+    position: sticky;
+    top: 0;
+}
+
+.viides_background .viides_container .images {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 20px;
+    left: 380px;
+}
+
+.viides_background .viides_container .images .image_1 {
+    background-image: url("../img/pexels-italo-melo-2379005.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.viides_background .viides_container .images .image_2 {
+    background-image: url("../img/pexels-andrea-piacquadio-3831645.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    top: -162px;
+    left: 150px;
+}
+
+.viides_background .viides_container .images .image_3 {
+    background-image: url("../img/pexels-tainá-bernard-3482526.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    top: -172px;
+    left: 0px;
+}
+
+.viides_background .viides_container .images .image_4 {
+    background-image: url("../img/pexels-simon-robben-614810.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    top: -334px;
+    left: 150px;
+}
+
+.viides_background .viides_container .images .image_1 .image_1_container {
+    display: block;
+}
+
+.viides_background .viides_container .images .image_2 .image_2_container {
+    display: block;
+}
+
+.viides_background .viides_container .images .image_3 .image_3_container {
+    display: block;
+}
+
+.viides_background .viides_container .images .image_4 .image_4_container {
+    display: block;
+}
+
+.viides_background .viides_container .images .image_1 .image_1_container:hover {
+    display: none;
+}
+
+.viides_background .viides_container .images .image_2 .image_2_container:hover {
+    display: none;
+}
+
+.viides_background .viides_container .images .image_3 .image_3_container:hover {
+    display: none;
+}
+
+.viides_background .viides_container .images .image_4 .image_4_container:hover {
+    display: none;
+}
+
+.viides_background .viides_container .images .image_1 .image_1_container .image_1_cover {
+    background-color: brown;
+    height: 151px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+    opacity: 70%;
+}
+
+.viides_background .viides_container .images .image_2 .image_2_container .image_2_cover {
+    background-color: crimson;
+    height: 151px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+    opacity: 70%;
+}
+
+.viides_background .viides_container .images .image_3 .image_3_container .image_3_cover {
+    background-color: midnightblue;
+    height: 151px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+    opacity: 70%;
+}
+
+.viides_background .viides_container .images .image_4 .image_4_container .image_4_cover {
+    background-color: indigo;
+    height: 151px;
+    width: 150px;
+    border-radius: 2px;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+    opacity: 70%;
+}
+
+.viides_background .viides_container .images .image_1 .image_1_container .image_1_cover p {
+    color:#FFF;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.viides_background .viides_container .images .image_2 .image_2_container .image_2_cover p {
+    color:#FFF;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.viides_background .viides_container .images .image_3 .image_3_container .image_3_cover p {
+    color:#FFF;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.viides_background .viides_container .images .image_4 .image_4_container .image_4_cover p {
+    color:#FFF;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.kuudes_background {
+    background-color: red;
+    height: 700px;
+}
+
+.kuudes_background h2 {
+    color: #FFF;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.kuudes_background .form_container {
+    height: 520px;
+    width: 1060px;
+    margin: auto;
+    position: sticky;
+    top: 0;
+}
+
+.kuudes_background .form_container form {
+    color: #FFF;
+    font-size: 15px;
+    position: relative;
+    left: 370px;
+    top: 10px;
+}
+
+.kuudes_background .form_container form #name {
+    background-color: crimson;
+    width: 320px;
+    height: 35px;
+    border: 1px #FFF;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.kuudes_background .form_container form #email {
+    background-color: crimson;
+    width: 320px;
+    height: 35px;
+    border: 1px #FFF;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.kuudes_background .form_container form #phone {
+    background-color: crimson;
+    width: 320px;
+    height: 35px;
+    border: 1px #FFF;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.kuudes_background .form_container form #checkbox_1 {
+    background-color: #FFF;
+}
+
+.kuudes_background .form_container form .circle {
+    background-color: red;
+    height: 47px;
+    width: 47px;
+    border: 1px #FFF;
+    border-radius: 50px;
+    border-style: solid;
+    position: relative;
+    bottom: 0px;
+    left: 270px;
+}
+
+.kuudes_background .form_container form .circle .circle_block_1 {
+    background-color: #FFF;
+    height: 2px;
+    width: 6px;
+    position: relative;
+    top: 22px;
+    left: 21px;
+    transform: rotate(48deg);
+}
+
+.kuudes_background .form_container form .circle .circle_block_2 {
+    background-color: #FFF;
+    height: 2px;
+    width: 6px;
+    position: relative;
+    top: 23px;
+    left: 21px;
+    transform: rotate(-48deg);
+}
+
+.footer_background {
+    background-image: url("../img/pexels-burst-373893.jpg");
+    background-size: cover;
+    overflow: auto;
+    height: 2400px;
+    background-position-x: -920px;
+}
+
+.footer_background .footer_background_container {
+    background-color: black;
+    background-size: cover;
+    height: 2400px;
+    opacity: 70%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.footer_background .footer_container {
+    height: 500px;
+    width: 1060px;
+    margin: auto;
+    position: relative;
+    top: -2400px;
+    left: 0px;
+}
+
+.footer_background .footer_container h2 {
+    color: #FFF;
+    font-size: 80px;
+    text-align: center;
+}
+
+.footer_background .footer_container .contact_info {
+    background-color: #FFF;
+    height: 170px;
+    width: 700px;
+    position: relative;
+    top: 30px;
+    left: 180px;
+    border-radius: 4px;
+}
+
+.footer_background .footer_container .contact_info p {
+    color:black;
+    font-size: 13px;
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 35px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .red_box {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    left: 455px;
+    bottom: 90px;
+    border-radius: 2px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .red_box h3 {
+    color: #FFF;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 9px;
+    padding-left: 20px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .red_box .white_block {
+    background-color: #FFF;
+    width: 8px;
+    height: 2px;
+    position: relative;
+    left: 18px;
+    bottom: 18px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .red_box h4 {
+    color: #FFF;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    bottom: 67px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .html_text {
+    height: 50px;
+    width: 100px;
+    position: relative;
+    left: 565px;
+    bottom: 167px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .html_text h4 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .CSS_text {
+    height: 10px;
+    width: 90px;
+    position: relative;
+    left: 524px;
+    bottom: 206px;
+}
+
+.footer_background .footer_container .contact_info .i_know_html .CSS_text p {
+    color: black;
+    font-size: 6px;
+    text-align: left;
+}
+
+.footer_background .footer_container .image_text {
+    height: 20px;
+    width: 300px;
+    position: relative;
+    left: 610px;
+    top: 25px;
+}
+
+.footer_background .footer_container .image_text p {
+    color: #FFF;
+    font-size: 12px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 320px) {
+    body {
+        overflow: hidden;
+        margin: 0%;
+        max-width: 320px;
+        overflow-x: hidden;
+        background-color: none;
+    }
+
+    .header_background {
+        height: 300px;
+        width: 320px;
+        overflow: hidden;
+    }
+
+    .header_background .nav_selector {
+        display: block;
+    }
+
+    .header_background .i_know_html {
+        position: relative;
+        left: -380px;
+        bottom: 150px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .eka_background {
+        width: 320px;
+    }
+
+    .eka_background .eka_container {
+        height: 1600px;
+        width: 320px;
+        position: relative;
+        top: 0;
+    }
+
+    .eka_background .eka_container .eka_img .logo {
+        width: 700px;
+        padding-left: -300px;
+    }
+    
+    .eka_background .eka_container .text_container {
+        position: relative;
+        left: -640px;
+        bottom: 440px;
+    }
+
+    .eka_background .eka_container .text_container .design {
+        left: 615px;
+        top: -190px;
+    }
+
+    .eka_background .eka_container .text_container .design h2 {
+        font-size: 50px;
+        padding-left: 90px;
+    }
+
+    .eka_background .eka_container .text_container .thinking h3 {
+        font-size: 40px;
+        padding-left: 90px;
+    }
+
+    .toka_background {
+        width: 320px;
+        height: 650px;
+    }
+
+    .toka_background h2 {
+        font-size: 42px;
+    }
+
+    .toka_background .blocks {
+        position: relative;
+        left: -370px;
+    }
+
+    .toka_background .blocks .block_1 {
+        height: 130px;
+        width: 130px;
+        left: 390px
+    }
+
+    .toka_background .blocks .block_2 {
+        height: 130px;
+        width: 130px;
+        left: 540px;
+        top: -137px;
+    }
+
+    .toka_background .blocks .block_3 {
+        height: 130px;
+        width: 130px;
+        left: 390px;
+        top: -130px;
+    }
+
+    .toka_background .blocks .block_4 {
+        height: 130px;
+        width: 130px;
+        left: 540px;
+        top: -274px;
+    }
+
+    .toka_background .blocks .slide {
+        height: 60px;
+        width: 279px;
+        left: 391px;
+        top: -265px;
+    }
+
+    .toka_background .blocks .block_1 p {
+        font-size: 15px;
+        padding-top: 45px;
+    }
+
+    .toka_background .blocks .block_2 p {
+        font-size: 15px;
+        padding-top: 45px;
+    }
+
+    .toka_background .blocks .block_3 p {
+        font-size: 15px;
+        padding-top: 45px;
+    }
+
+    .toka_background .blocks .block_4 p {
+        font-size: 15px;
+        padding-top: 45px;
+    }
+
+    .toka_background .blocks .slide p {
+        padding-top: 18px;
+        padding-left: 20px;
+    }
+
+    .kolmas_background {
+        height: 200px;
+        width: 320px;
+    }
+
+.neljäs_background_container {
+    background-color: #FFF;
+    height: 900px;
+    width: 320px;
+}
+
+    .neljäs_background {
+        width: 320px;
+        background-position-x: 610px;
+        background-position-y: -10px;
+        height: 900px;
+        opacity: 50%;
+    }
+
+    .neljäs_background h2 {
+        padding-top: 100px;
+        font-size: 40px;
+    }
+
+    .neljäs_background .neljäs_container {
+        position: relative;
+        left: -245px;
+    }
+
+    .viides_background {
+        width: 320px;
+    }
+
+    .viides_background h2 {
+        font-size: 40px;
+    }
+
+    .viides_background .viides_container .images {
+        left: 10px;
+    }
+
+    .viides_background .viides_container .images .image_1 {
+        height: 120px;
+        width: 120px;
+        left: 20px;
+    }
+
+    .viides_background .viides_container .images .image_2 {
+        height: 120px;
+        width: 120px;
+        top: -132px;
+        left: 170px;
+    }
+
+    .viides_background .viides_container .images .image_3 {
+        height: 120px;
+        width: 120px;
+        top: -120px;
+        left: 20px;
+    }
+
+    .viides_background .viides_container .images .image_4 {
+        height: 120px;
+        width: 120px;
+        top: -252px;
+        left: 170px;
+    }
+
+    .viides_background .viides_container .images .image_1 .image_1_container .image_1_cover {
+        height: 121px;
+        width: 120px;
+    }
+
+    .viides_background .viides_container .images .image_2 .image_2_container .image_2_cover {
+        height: 121px;
+        width: 120px;
+    }
+
+    .viides_background .viides_container .images .image_3 .image_3_container .image_3_cover {
+        height: 121px;
+        width: 120px;
+    }
+
+    .viides_background .viides_container .images .image_4 .image_4_container .image_4_cover {
+        height: 121px;
+        width: 120px;
+    }
+
+    .viides_background .viides_container .images .image_1 .image_1_container .image_1_cover p {
+        padding-top: 50px;
+    }
+    
+    .viides_background .viides_container .images .image_2 .image_2_container .image_2_cover p {
+        padding-top: 50px;
+    }
+    
+    .viides_background .viides_container .images .image_3 .image_3_container .image_3_cover p {
+        padding-top: 50px;
+    }
+    
+    .viides_background .viides_container .images .image_4 .image_4_container .image_4_cover p {
+        padding-top: 50px;
+    }
+
+    .kuudes_background {
+        width: 320px;
+    }
+
+    .kuudes_background h2 {
+        font-size: 40px;
+    }
+
+    .kuudes_background .form_container {
+        position: relative;
+        left: -350px;
+    }
+
+    .kuudes_background .form_container form #name {
+        width: 280px;
+    }
+
+    .kuudes_background .form_container form #email {
+        width: 280px;
+    }
+
+    .kuudes_background .form_container form #phone {
+        width: 280px;
+    }
+
+    .kuudes_background .form_container form #checkbox_1 {
+        max-width: 100px;
+        overflow-wrap: break-word;
+    }
+
+    .kuudes_background .form_container form .circle {
+        top: 20px;
+        left: 235px;
+    }
+
+    .footer_background {
+        width: 320px;
+        height: 1600px;
+        background-position-x: -1050px;
+        background-position-y: -300px;
+    }
+
+    .footer_background .footer_container {
+        width: 320px;
+        position: relative;
+        left: 0px;
+    }
+
+    .footer_background .footer_container h2 {
+        font-size: 40px;
+    }
+
+    .footer_background .footer_container .contact_info {
+        width: 320px;
+        height: 340px;
+        opacity: 50%;
+        left: 0px;
+    }
+
+    .footer_background .footer_container .image_text {
+        left: 50px;
+    }
+
+    .footer_background .footer_container .contact_info .i_know_html {
+        position: relative;
+        left: -380px;
+        top: 120px;
+    }
+}
+
+

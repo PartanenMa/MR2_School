@@ -1,0 +1,3 @@
+﻿  C++_exercise_4.cpp
+C:\Users\manu1\Desktop\C++_programming_exercises(C++)\Exercises_1\C++_exercise_4\C++_exercise_4.cpp(16,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++_exercise_4.vcxproj -> C:\Users\manu1\Desktop\C++_programming_exercises(C++)\Exercises_1\C++_exercise_4\x64\Debug\C++_exercise_4.exe

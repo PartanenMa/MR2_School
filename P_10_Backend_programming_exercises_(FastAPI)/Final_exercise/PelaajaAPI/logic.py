@@ -1,6 +1,8 @@
+#Imports:
 from fastapi import HTTPException
 from data import players
 
+#Functions:
 def get_player_index(id):
     player_id = None
     for index, player in enumerate(players):

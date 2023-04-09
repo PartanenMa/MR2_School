@@ -1,47 +1,33 @@
+#Imports:
 from pydantic import BaseModel
-from typing import List, Dict, Union, Optional
+from typing import List, Dict, Union
 
+#Objects:
 class PlayerBase1(BaseModel):
     id: int
     name: str
 
 class PlayerBase2(BaseModel):
-    events: list
-
-class PlayerBase3(BaseModel):
     name: str
 
 class PlayerDB1(PlayerBase1):
-    events: list
+    events: List
 
-class PlayerDB2(PlayerBase3):
-    id: int
-
-class PlayerNew(PlayerBase3):
+class PlayerNew(PlayerBase2):
     id: int
     events: List[Dict[str, Union[int, str]]] = []
 
 class EventBase(BaseModel):
-    type: str
-    detail: Optional[str] = None
-
-class EventCreate(EventBase):
-    timestamp: str
-
-class PlayerEventCreate(EventCreate):
-    player_id: int
-
-class Event(EventCreate):
     id: int
+    type: str
+    detail: str
+    timestamp: str
     player_id: int
 
-database = {
-    "players": {},
-    "events": [],
-    "next_event_id": 1
-}
+#Database:
+players = []
 
-players = [{"id": 0, "name": "player1", "events": [
+players1 = [{"id": 0, "name": "player1", "events": [
             {
             "id": 0,
             "type": "level_started",
@@ -51,6 +37,13 @@ players = [{"id": 0, "name": "player1", "events": [
             },
             {
             "id": 1,
+            "type": "level_solved",
+            "detail": "level_1212_001",
+            "timestamp": "2023-01-13 15:01:52",
+            "player_id": 0
+            },
+            {
+            "id": 2,
             "type": "level_solved",
             "detail": "level_1212_001",
             "timestamp": "2023-01-13 15:01:52",

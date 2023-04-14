@@ -2,7 +2,7 @@
 from pydantic import BaseModel
 from typing import List, Dict, Union
 
-#Objects:
+#Classes:
 class PlayerBase1(BaseModel):
     id: int
     name: str
